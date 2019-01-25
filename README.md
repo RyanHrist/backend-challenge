@@ -1,7 +1,7 @@
 ## Ada Backend Challenge
 
-#####Ryan Hristovski  
-#####January 24th, 2019
+Ryan Hristovski  
+January 24th, 2019
 
 ####Overview
 A Restful API using Python, Flask, and MongoDB that accepts incoming messsages, and serves up
@@ -19,4 +19,4 @@ Currently running on localhost port 5000
 
 
 
-#####If you have any questions feel free to email ryan.hristovski@outlook.com
+If you have any questions feel free to email ryan.hristovski@outlook.com
